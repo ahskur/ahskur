@@ -1,9 +1,11 @@
 ### Hello! 👋
 I'm a university student learning how to code aspiring to be a fluent Python developer.
 
--🔭 I'm currently doing a 💯 Days of Code Challenge to learn Python and it's day-to-day use cases.
--👯 I'm also open for new projects and ideas to test the limits of my knowledge! Especially with Open Source Projects!
--📫 You can reach me on Linkedin at: https://www.linkedin.com/in/lcpinto/ or on Twitter: @spcoffenjoyer
+🔭 I'm currently doing a 💯 Days of Code Challenge to learn Python and it's day-to-day use cases.
+
+👯 I'm also open for new projects and ideas to test the limits of my knowledge! Especially with Open Source Projects!
+
+📫 You can reach me on Linkedin at: https://www.linkedin.com/in/lcpinto/ or on Twitter: @spcoffenjoyer
 
 <!--
 **ahskur/ahskur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
