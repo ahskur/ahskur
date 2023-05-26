@@ -5,7 +5,7 @@ I'm a university student learning how to code aspiring to be a fluent Python dev
 
 👯 I'm also open for new projects and ideas to test the limits of my knowledge! Especially with Open Source Projects!
 
-📫 You can reach me on Linkedin at: https://www.linkedin.com/in/lcpinto/ or on Twitter: @spcoffenjoyer
+📫 You can reach me on Twitter: @spcoffenjoyer
 
 <!--
 **ahskur/ahskur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
