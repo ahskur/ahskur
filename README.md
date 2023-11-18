@@ -1,9 +1,9 @@
 ### Hello! 👋
-I'm a university student learning how to code aspiring to be a fluent Python developer.
+I'm a university student be a Full Stack Python developer.
 
-🔭 I'm currently doing a 💯 Days of Code Challenge to learn Python and it's day-to-day use cases.
+🔭 I'm currently learning algorithms and other CS concepts.
 
-👯 I'm also open for new projects and ideas to test the limits of my knowledge! Especially with Open Source Projects!
+👯 I'm open for new projects and ideas to test the limits of my knowledge! Especially with Open Source Projects!
 
 📫 You can reach me by Email: l.correap@pm.me
 
