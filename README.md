@@ -5,8 +5,6 @@ I'm a university student be a Full Stack Python developer.
 
 👯 I'm open for new projects and ideas to test the limits of my knowledge! Especially with Open Source Projects!
 
-📫 You can reach me by Email: l.correap@pm.me
-
 <!--
 **ahskur/ahskur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
