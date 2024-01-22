@@ -12,6 +12,7 @@ I'm a university student on my way to be a Full Stack Python developer.
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-blue?logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-black?logo=dev.to)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-green?logo=apache-airflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-yellow?logo=apache-spark&logoColor=white)
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=jupyter&logoColor=white)
