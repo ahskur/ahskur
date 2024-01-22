@@ -5,8 +5,9 @@ I'm a university student be on my way to be a Full Stack Python developer.
 
 👯 I'm open for new projects and ideas to test the limits of my knowledge! Especially with Open Source Projects!
 
-⚡ Stack:
-![git badge](https:/badgen.net/badge/icon/git?icon=git&label)
+# ⚡ Stack:
+![git](https://badgen.net/badge/icon/git?icon=git&label)
+
 
 
 
