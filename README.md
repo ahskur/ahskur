@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm a university student on my way to be a Full Stack Python developer.
+I'm on my way to be a Full Stack Python developer.
 
 🔭 Currently learning Algorithms and other concepts.
 
